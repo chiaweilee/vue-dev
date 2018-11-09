@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": false,
   "sideEffects": false,
+  "main": "./lib/index.js",
+  "module": "src/index.js",
   "scripts": {
     "dev": "npm run serve",
     "start": "npm run serve",
